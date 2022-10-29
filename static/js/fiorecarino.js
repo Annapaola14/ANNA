@@ -12,7 +12,7 @@ function draw(){
 	circle(0,150,100);
 
 
-	fill("orange");
+	fill("orange")
 	circle(250,100,100);
 	fill("purple");
 	circle(350,100,100);
